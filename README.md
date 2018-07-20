@@ -4,7 +4,7 @@ In this case study you'll get to work in a situation much more like that which y
 
 ## The Data
 
-There are two data sets you can choose to work from, one about UFO sightings and the other about bigfoot sightings.
+There are two data sets you can choose to work from, one about UFO sightings and the other about bigfoot sightings.  They are both large files, though there are subsets (the first 100 records) of both datasets in the `data` folder.
 
 ### UFO Sightings
 
@@ -24,7 +24,7 @@ A huge part of the challenge for this case study will be getting the data into a
 
 ## Resources
 
-Turns out the person who scraped the data left the beginnings of a Python script to load the data with, but even they left a note that it's not very helpful.
+Turns out the person who scraped the data left the beginnings of a Python script to load the data with, but even they left a note that it's not very helpful.  See the `example_reading_and_parsing_data.ipynb` for a more extended example.
 
 ```python
 import json
