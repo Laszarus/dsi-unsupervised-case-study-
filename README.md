@@ -59,7 +59,7 @@ _observations_ with standard English stop words:
 2. went, got, night, looked, feet, away, sound, didn, thought, right
 3. feet, got, mountain, tracks, way, camp, big, came, looked, old
 4. looked, feet, went, large, night, got, creature, tall, seen, away
-5.lake, forest, feet, near, night, summer, tent, kootenay, left, sasquatch
+5. lake, forest, feet, near, night, summer, tent, kootenay, left, sasquatch
 
 So, we augmented the standard list of English stop words with our own stop words. The result was that the latent topics still looked very similar, but with different words:
 
