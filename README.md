@@ -48,7 +48,7 @@ Conjectures based off the geographic perspective: bigfoot sighting reports are h
 
 ## Topic modeling
 
-Prior to modeled, we applWe applied Clustering as well as Latent Dirichlet Allocation to the modelin order to discover hidden topics in the data. These analyses were applied over several columns including "observed" , "enviroment", "time and conditions", "other stories", and "also noticed." 
+Prior to modeled, we applWe applied KMeans Clustering as well as Latent Dirichlet Allocation to the modelin order to discover hidden topics in the data. These analyses were applied over several columns including "observed" , "enviroment", "time and conditions", "other stories", and "also noticed." 
 
 We noticed most of the results came out the same. We did not observe any more clarity from LDA vs. Clustering. Also, even though the examples below all show 5 different topics, we tried greater and fewer topics (from 2-10). Changing the number of topics did not yield any clearer results.
 
