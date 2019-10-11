@@ -48,7 +48,7 @@ Conjectures based off the geographic perspective: bigfoot sighting reports are h
 
 ## Topic modeling
 
-Prior to modeled, we applWe applied KMeans Clustering as well as Latent Dirichlet Allocation to the modelin order to discover hidden topics in the data. These analyses were applied over several columns including "observed" , "enviroment", "time and conditions", "other stories", and "also noticed." 
+We applied KMeans Clustering as well as Latent Dirichlet Allocation to the data in order to discover latent topics. These analyses were applied over several columns including "observed" , "enviroment", "time and conditions", "other stories", and "also noticed." 
 
 We noticed most of the results came out the same. We did not observe any more clarity from LDA vs. Clustering. Also, even though the examples below all show 5 different topics, we tried greater and fewer topics (from 2-10). Changing the number of topics did not yield any clearer results.
 
@@ -141,6 +141,6 @@ Interestingly, though no one has ever captured a clear picture of Bigfoot, words
 
 ## Discussion
 
-The fact that the latent topics all come out sounding similar may be seen as a null result for this study, or it could be looked at an analysis that all these accountings of Bigfoot are very similar to each other. Maybe too similar to each other? Either Bigfoot always appears in more or less the same way in the same conditions
+The fact that the latent topics all come out sounding similar may be seen as a null result for this study, or it could be looked at an analysis that all these accountings of Bigfoot are very similar to each other. Maybe too similar to each other? Either Bigfoot always appears in more or less the same way in the same conditions or perhaps people's accounts of Bigfoot are largely based on what they thing a Bigfoot sighting "should" look like?
 
 Oh, and the data set was definitely about Bigfoot the Sasquatch, not Bigfoot the Monster Truck.
